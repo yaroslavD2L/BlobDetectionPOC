@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlobDetection", "BlobDetection.csproj", "{1F18AE78-7EFB-4DC6-A5D1-84E3E20B7A92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobDetection.Tests", "..\BlobDetection.Tests\BlobDetection.Tests.csproj", "{EE4230A0-82D2-45F1-8407-94FFA8772B2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F18AE78-7EFB-4DC6-A5D1-84E3E20B7A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F18AE78-7EFB-4DC6-A5D1-84E3E20B7A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F18AE78-7EFB-4DC6-A5D1-84E3E20B7A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F18AE78-7EFB-4DC6-A5D1-84E3E20B7A92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE4230A0-82D2-45F1-8407-94FFA8772B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4230A0-82D2-45F1-8407-94FFA8772B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4230A0-82D2-45F1-8407-94FFA8772B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4230A0-82D2-45F1-8407-94FFA8772B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
